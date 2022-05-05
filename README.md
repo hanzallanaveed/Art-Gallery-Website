@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing my bachelor's in Software Engineering.
 - 💞️ I look forward to my future as a Software Engineer.
 - These are some of the main projects that I have worked on.
-- 📫 How to reach me:hanzallanaveed2001@gmail.com
+-  How to reach me:hanzallanaveed2001@gmail.com
 
 <!---
 hanzallanaveed/hanzallanaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
